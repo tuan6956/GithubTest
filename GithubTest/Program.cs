@@ -12,7 +12,8 @@ namespace GithubTest
         {
             Console.WriteLine("Demo git tuan636");
             Console.WriteLine("Edit Code");
-            //
+            Console.WriteLine("Edit Code - PC2");
+
         }
     }
 }
