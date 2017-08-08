@@ -11,6 +11,8 @@ namespace GithubTest
         static void Main(string[] args)
         {
             Console.WriteLine("Demo git tuan636");
+            Console.WriteLine("Edit Code");
+
         }
     }
 }
